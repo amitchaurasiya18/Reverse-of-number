@@ -1,0 +1,7 @@
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\bin\Debug\ReverseOfNumber.exe.config
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\bin\Debug\ReverseOfNumber.exe
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\bin\Debug\ReverseOfNumber.pdb
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\obj\Debug\ReverseOfNumber.csproj.AssemblyReference.cache
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\obj\Debug\ReverseOfNumber.csproj.CoreCompileInputs.cache
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\obj\Debug\ReverseOfNumber.exe
+D:\VS Projects GitHub\Reverse-of-number\ReverseOfNumber\obj\Debug\ReverseOfNumber.pdb
